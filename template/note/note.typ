@@ -1,6 +1,6 @@
 #import "@preview/fontawesome:0.1.0": *
 
-#let notemp(
+#let note(
   title: none,
   doc
 ) = {
@@ -13,14 +13,14 @@
     paper: "a4",
     numbering: "1",
     number-align: right,
-    header: smallcaps[horoen's note]
+    header: "practice makes perfect."
   )
   set par(
     justify: true,
     first-line-indent: 2em,
   )
   set text(
-    font: "思源宋体",
+    font: "Source Han Serif SC",
     lang: "zh",
     size: 12pt
   )

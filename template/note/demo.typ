@@ -1,5 +1,5 @@
-#import "notemp.typ": notemp
-#show: doc => notemp(
+#import "note.typ": note
+#show: doc => note(
   title: "neote template demo",
   doc
 )
