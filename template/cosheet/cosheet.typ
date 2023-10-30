@@ -1,7 +1,7 @@
 #let cosheet(
   doc
 ) = {
-  set heading(numbering: "1.")
+  set heading(numbering: "1.1")
   set page(
     paper: "a4",
     numbering: "1",
