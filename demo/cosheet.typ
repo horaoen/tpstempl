@@ -1,4 +1,4 @@
-#import "cosheet.typ": cosheet
+mport "cosheet.typ": cosheet
 #show: doc => cosheet(
   doc
 )
